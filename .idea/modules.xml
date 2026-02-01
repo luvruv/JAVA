@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Classes and Objects/Classes and Objects.iml" filepath="$PROJECT_DIR$/Classes and Objects/Classes and Objects.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Control Statements Math String/Control Statements Math String.iml" filepath="$PROJECT_DIR$/Control Statements Math String/Control Statements Math String.iml" />
-      <module fileurl="file://$PROJECT_DIR$/New folder/DataTypes Variables Input/DataTypes Variables Input.iml" filepath="$PROJECT_DIR$/New folder/DataTypes Variables Input/DataTypes Variables Input.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Desktop.iml" filepath="$PROJECT_DIR$/Desktop.iml" />
-      <module fileurl="file://$PROJECT_DIR$/New folder/FirstProject/FirstProject.iml" filepath="$PROJECT_DIR$/New folder/FirstProject/FirstProject.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Operators If-else Number System/Operators If-else Number System.iml" filepath="$PROJECT_DIR$/Operators If-else Number System/Operators If-else Number System.iml" />
-      <module fileurl="file://$PROJECT_DIR$/New folder/Challenges/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/New folder/Challenges/Patterns/Patterns.iml" />
-      <module fileurl="file://$PROJECT_DIR$/New folder/Challenges/Subscribe/Subscribe.iml" filepath="$PROJECT_DIR$/New folder/Challenges/Subscribe/Subscribe.iml" />
-      <module fileurl="file://$PROJECT_DIR$/UserInput/UserInput.iml" filepath="$PROJECT_DIR$/UserInput/UserInput.iml" />
-      <module fileurl="file://$PROJECT_DIR$/While Loop Methods Array/While Loop Methods Array.iml" filepath="$PROJECT_DIR$/While Loop Methods Array/While Loop Methods Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Complete_Youtube.iml" filepath="$PROJECT_DIR$/Java_Complete_Youtube.iml" />
     </modules>
   </component>
 </project>
